@@ -1,2 +1,2 @@
 # Encryption-Decoder
-I will create decoders for various encryption and in the process learn the way that encryption works.
+I will create decoders for various encryption and in the process learn how that encryption works.
